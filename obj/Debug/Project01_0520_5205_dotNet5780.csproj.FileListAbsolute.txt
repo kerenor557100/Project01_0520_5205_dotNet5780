@@ -1,0 +1,7 @@
+C:\Users\keren or\Documents\machon tal\Project01_0520_5205_dotNet5780\Project01_0520_5205_dotNet5780\bin\Debug\Project01_0520_5205_dotNet5780.exe.config
+C:\Users\keren or\Documents\machon tal\Project01_0520_5205_dotNet5780\Project01_0520_5205_dotNet5780\bin\Debug\Project01_0520_5205_dotNet5780.exe
+C:\Users\keren or\Documents\machon tal\Project01_0520_5205_dotNet5780\Project01_0520_5205_dotNet5780\bin\Debug\Project01_0520_5205_dotNet5780.pdb
+C:\Users\keren or\Documents\machon tal\Project01_0520_5205_dotNet5780\Project01_0520_5205_dotNet5780\obj\Debug\Project01_0520_5205_dotNet5780.csprojAssemblyReference.cache
+C:\Users\keren or\Documents\machon tal\Project01_0520_5205_dotNet5780\Project01_0520_5205_dotNet5780\obj\Debug\Project01_0520_5205_dotNet5780.csproj.CoreCompileInputs.cache
+C:\Users\keren or\Documents\machon tal\Project01_0520_5205_dotNet5780\Project01_0520_5205_dotNet5780\obj\Debug\Project01_0520_5205_dotNet5780.exe
+C:\Users\keren or\Documents\machon tal\Project01_0520_5205_dotNet5780\Project01_0520_5205_dotNet5780\obj\Debug\Project01_0520_5205_dotNet5780.pdb
